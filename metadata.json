@@ -1,0 +1,6 @@
+{
+  "name": "iPhone Media Sync",
+  "description": "Minimalist one-click incremental sync and backup tool for iPhone photos and videos to local folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
